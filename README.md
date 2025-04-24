@@ -83,7 +83,8 @@ plt.show()
 
 ## **📚 Referências**  
 - **Livros**:  
-  - *Digital Signal Processing* — Alan V. Oppenheim  
+  - *Digital Signal Processing* — Alan V. Oppenheim
+  - *Processamento Digital de Sinais: Projeto e Análise de Sistemas* -  Paulo S. R. Diniz (Autor), Eduardo A. B. da Silva (Autor), Sergio L. Netto (Autor), Luiz Wagner Pereira Biscainho (Tradutor)
   - *Digital Image Processing* — Gonzalez & Woods  
 - **Artigos**:  
   - [IEEE Xplore: FIR/IIR em Imagens](https://ieeexplore.ieee.org/)  
@@ -93,17 +94,6 @@ plt.show()
 
 ## **📜 Licença**  
 MIT License. Consulte [LICENSE](LICENSE) para detalhes.  
-
----
-
-## **🤝 Contribuição**  
-Contribuições são bem-vindas! Abra uma **issue** ou envie um **pull request**.  
-
-**⭐ Se este projeto te ajudou, deixe uma estrela!**  
-
---- 
-
-📧 **Contato**: [seu-email@exemplo.com] | [LinkedIn](https://linkedin.com/in/seu-perfil)  
 
 --- 
 
