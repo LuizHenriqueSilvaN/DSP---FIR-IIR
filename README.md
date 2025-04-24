@@ -45,8 +45,8 @@ Este projeto explora implementações em **Python** e **MATLAB**, com exemplos p
 ## **🚀 Como Usar**  
 
 ### **Pré-requisitos**  
-- Python 3.8+ (com `numpy`, `scipy`, `opencv`, `matplotlib`)  
-- MATLAB (opcional, para simulações)  
+- Python 3.11+ (com `numpy`, `scipy`, `sympy`, `matplotlib`, `soundfile`, `librosa` )  
+- 
 
 ### **Exemplo: Aplicando um Filtro FIR em Áudio**  
 ```python
